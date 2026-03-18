@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+robust_driving/
+venv/
+env/
+ENV/
+
+# Model Checkpoints (too large for git)
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Generated Data
+data/
+
+# TensorBoard Logs
+runs/
+
+# Misc folder (working files, not needed for assignment)
+/Misc/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

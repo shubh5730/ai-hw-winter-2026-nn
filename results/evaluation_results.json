@@ -1,0 +1,22 @@
+{
+  "clean_accuracy": 9.0,
+  "fgsm": {
+    "clean_acc": 0.1,
+    "adv_acc": 0.1,
+    "success_rate": 0.0
+  },
+  "pgd": {
+    "clean_acc": 0.1,
+    "adv_acc": 0.05,
+    "success_rate": 0.05
+  },
+  "weather": {
+    "rain": 11.25,
+    "fog": 10.0,
+    "snow": 10.0
+  },
+  "combined": {
+    "fgsm_rain": 5.0,
+    "fgsm_fog": 7.5
+  }
+}
