@@ -8,14 +8,13 @@
 
 ```
 ai-hw-winter-2026-nn/
-├── main.py                 # Main implementation
+├── main.py                # Main implementation
 ├── README.md              # This file
 ├── requirements.txt       # Dependencies
 ├── data/                  # Dataset directory
 ├── models/                # Model architectures
 ├── attacks/               # Attack implementations
 ├── results/               # Results and visualizations
-└── presentation/           # PDF presentation
 ```
 
 ## Installation
